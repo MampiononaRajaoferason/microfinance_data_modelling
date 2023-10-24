@@ -43,6 +43,8 @@ In this project, we've defined the following tables:
 
    - [SQLAlchemy ORM Tutorial](https://docs.sqlalchemy.org/en/20/orm/tutorial.html)
    - [Data Modeling Guide](https://www.lucidchart.com/pages/data-modeling-guide)
+     
+![microfinance_data_model](https://github.com/MampiononaRajaoferason/microfinance_data_modelling/assets/38230401/1dfea94c-08ff-4458-a764-084b2856bc31)
 
 ### Data Import
 
