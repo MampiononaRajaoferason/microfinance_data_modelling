@@ -85,7 +85,3 @@ If you have questions or need support, you can contact me at mampionona@aims.ac.
 
 
 
-### References
-
-References to external documentation, resources, and related projects used during development can be found in the project's documentation.
-
