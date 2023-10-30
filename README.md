@@ -28,8 +28,7 @@ Knowledge of SQL and Python data modeling concepts
    - [SQLAlchemy Documentation](https://docs.sqlalchemy.org/en/20/)
 
 ### Data Modeling
-
-In this project, we've defined the following tables:
+In this project, we've used Object-Relational Mapping (ORM) to define and structure the database schema. This ORM-based data modeling allows us to create and manage database tables as Python classes, facilitating the interaction with the database through Python code. Each table corresponds to a Python class, and relationships between tables are defined using ORM relationships.
 
 - **Customer**: This table stores customer information, including their name, age, address, and city.
 
